@@ -1,3 +1,5 @@
+meow
+
 # SALSA: Spatial Cue-Augmented Log-Spectrogram Features for Polyphonic Sound Event Localization and Detection
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/salsa-spatial-cue-augmented-log-spectrogram/sound-event-localization-and-detection-on-tau-1)](https://paperswithcode.com/sota/sound-event-localization-and-detection-on-tau-1?p=salsa-spatial-cue-augmented-log-spectrogram) [![](https://img.shields.io/badge/Baseline%20Feature-DCASE%202022-brightgreen)](https://dcase.community/challenge2022/task-sound-event-localization-and-detection-evaluated-in-real-spatial-sound-scenes#baseline-system)
